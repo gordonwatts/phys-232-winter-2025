@@ -1,0 +1,15 @@
+# If you want to run the lectures, HW, etc. locally on your laptop
+# (as long as you have python installed):
+# python -m venv .venv
+# source .venv/bin/activate [Or whatever is right for your platform to activate this venv]
+# pip install -r requirements.txt
+
+# Jupyter-lab interface.
+jupyterlab
+
+# Plotting
+matplotlib
+
+# Array & data manipulation
+numpy
+pandas
