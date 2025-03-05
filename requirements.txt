@@ -13,3 +13,4 @@ matplotlib
 # Array & data manipulation
 numpy
 pandas
+tensorflow
